@@ -38,6 +38,7 @@ function Register() {
       <div className="card p-3 w-400">
         <h1 className="text-xl mb-1">MOVIE-BOOKING - LOGIN</h1>
         <hr />
+        <h3>Admin email: admin@gmail.com password:12345</h3>
         <Form layout="vertical" className="mt-1" onFinish={onFinish}>
           <Form.Item
             label="Email"
